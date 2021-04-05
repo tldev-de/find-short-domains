@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpwhois/phpwhois": "^4.2"
+    }
+}
